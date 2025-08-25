@@ -73,7 +73,7 @@ int main() {
     std::cout << "The comparison of \"" << sixthStr << "\" and \"" << seventhStr
               << "\" returns " << strcmp_case_insensitive(sixthStr, seventhStr, true) << ".\n";
 
-    std::cout << "Comparison of \"" << eighthStr << "\" and \"" << seventhStr
+    std::cout << "The comparison of \"" << eighthStr << "\" and \"" << seventhStr
               << "\" returns " << strcmp_case_insensitive(eighthStr, seventhStr, true) << ".\n";
 
     return 0;
